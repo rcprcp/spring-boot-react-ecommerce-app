@@ -32,8 +32,8 @@
     "redux-thunk": "^2.3.0",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.2",
-    "stripe": "^8.78.0",
-    "styled-components": "^5.3.5",
+    "stripe": "^8.213.0",
+    "styled-components": "^6.1.0",
     "swiper": "^5.4.2"
   },
   "scripts": {
